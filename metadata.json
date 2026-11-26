@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Sightline — FPS Hand & ADS Simulator",
+  "description": "A realistic Three.js first-person shooter simulator in a clean blank room focused on anatomically sculpted human hands, iron-sight ADS alignment, and physical firearm recoil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
